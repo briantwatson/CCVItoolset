@@ -6,11 +6,11 @@ This toolset is in the early stages of development.  	Please check that the resu
 
 Synopsis
 --------
-NatureServe has developed the Climate Change Vulnerability Index (CCVI) to rapidly assess vulnerability of animal and plant species to climate change using a scoring system based on predicted exposure and sensitivity to climate change.  The CCVI incorporates the overlay and classification of species ranges with both predicted and historical GIS climate data as factors of a species’ exposure and sensitivity to climate change.   The CCVI Toolset is a suite of tools that calculates exposure to predicted change in both moisture and temperature for single or multiple species in varying formats.
+NatureServe has developed the Climate Change Vulnerability Index (CCVI) to rapidly assess vulnerability of animal and plant species to climate change using a scoring system based on predicted exposure and sensitivity to climate change.  The CCVI incorporates the overlay and classification of species ranges with both predicted and historical GIS climate data as factors of a speciesâ€™ exposure and sensitivity to climate change.   The CCVI Toolset is a suite of tools that calculates exposure to predicted change in both moisture and temperature for single or multiple species in varying formats.
 
 Rough scripts that were developed for historical factors of the CCVI (C2ai and C2bi, version 2.1) are included under the code folder.
 
-These python scripts and ArcGIS tools were originally devloped to expedite CCVI assessments for a project in the [Kwit Lab](http://www.charleskwit.com/endangered-plants-and-climate-change-in-tennessee/) at The University of Tennessee.
+These python scripts and ArcGIS tools were originally devloped to expedite CCVI assessments for a project in the [Kwit Lab](http://www.charleskwit.com) at The University of Tennessee.
 
 
 About ArcGIS Script Tool
